@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19631" started-at="2022-01-20T10:17:19 IST" finished-at="2022-01-20T10:17:38 IST">
+    <groups>
+      <group name="regressionTest">
+        <method signature="SearchProductByQtyOrUnitTest.productByQtyOrUnit()[pri:0, instance:practice.SearchProductByQtyOrUnitTest@670b40af]" name="productByQtyOrUnit" class="practice.SearchProductByQtyOrUnitTest"/>
+      </group> <!-- regressionTest -->
+    </groups>
+    <test name="Default test" duration-ms="19631" started-at="2022-01-20T10:17:19 IST" finished-at="2022-01-20T10:17:38 IST">
+      <class name="practice.SearchProductByQtyOrUnitTest">
+        <test-method status="PASS" signature="configBs()[pri:0, instance:practice.SearchProductByQtyOrUnitTest@670b40af]" name="configBs" is-config="true" duration-ms="9" started-at="2022-01-20T10:17:19 IST" finished-at="2022-01-20T10:17:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBs -->
+        <test-method status="PASS" signature="configBc()[pri:0, instance:practice.SearchProductByQtyOrUnitTest@670b40af]" name="configBc" is-config="true" duration-ms="2991" started-at="2022-01-20T10:17:19 IST" finished-at="2022-01-20T10:17:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBc -->
+        <test-method status="PASS" signature="configBm()[pri:0, instance:practice.SearchProductByQtyOrUnitTest@670b40af]" name="configBm" is-config="true" duration-ms="3783" started-at="2022-01-20T10:17:22 IST" finished-at="2022-01-20T10:17:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBm -->
+        <test-method status="PASS" signature="productByQtyOrUnit()[pri:0, instance:practice.SearchProductByQtyOrUnitTest@670b40af]" name="productByQtyOrUnit" duration-ms="10436" started-at="2022-01-20T10:17:25 IST" finished-at="2022-01-20T10:17:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productByQtyOrUnit -->
+        <test-method status="PASS" signature="configAm()[pri:0, instance:practice.SearchProductByQtyOrUnitTest@670b40af]" name="configAm" is-config="true" duration-ms="1692" started-at="2022-01-20T10:17:36 IST" finished-at="2022-01-20T10:17:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAm -->
+        <test-method status="PASS" signature="configAc()[pri:0, instance:practice.SearchProductByQtyOrUnitTest@670b40af]" name="configAc" is-config="true" duration-ms="689" started-at="2022-01-20T10:17:38 IST" finished-at="2022-01-20T10:17:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAc -->
+        <test-method status="PASS" signature="configAs()[pri:0, instance:practice.SearchProductByQtyOrUnitTest@670b40af]" name="configAs" is-config="true" duration-ms="0" started-at="2022-01-20T10:17:38 IST" finished-at="2022-01-20T10:17:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAs -->
+      </class> <!-- practice.SearchProductByQtyOrUnitTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
